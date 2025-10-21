@@ -15,7 +15,7 @@
 Прошел комплексную подготовку по тестированию веб-приложений (frontend/backend) на платформе STEPIK. Владею фундаментальными знаниями и практическими навыками в области QA, подтвержденными наставником-практиком. Нацелен на применение проверенных методик для эффективного поиска дефектов и улучшения качества продукта.
 
 **📫 Как связаться со мной:**
-[![Gmail Badge](https://img.shields.io/badge/-qa.rusau@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-alexander.tu.tu.tu@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.rusau@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-@Alexandrewv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Alexandrewv)
 
 ---
