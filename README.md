@@ -87,8 +87,8 @@
 | **🌐 Веб-страница портфолио** | Создание сайта-портфолио | [🔗 Открыть](https://drive.google.com/file/d/18Y8ZiY0Vac9hGUuNeNguklO_QqVUTjfp/view) |
 | **🔍 Исследовательское тестирование** | Поиск багов в корзине без требований | [🔗 Открыть](https://drive.google.com/drive/folders/1Clxmfp0tHQeM_p2aE8UqQHcefTtJZMyT) |
 | **🔄 REST API коллекция** | Postman коллекция для Products и Cart | [🔗 Открыть](https://www.postman.com/universal-capsule-3550342/workspace/s-workspace/collection/46600300-bf8f2411-e51b-416c-83cf-b4800fc7db0e) |
-| **🔷 SOAP коллекция** | Тестирование SOAP сервисов | [🔗 Открыть](https://docs.google.com/spreadsheets/d/1GommSL8c9ez4fAID8U-X1s0V-UA-NywOECuMZZvToa4/edit) |
-сервис - (http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL)
+| **🔷 SOAP коллекция** | Тестирование SOAP сервисов | [🔗 Открыть](https://docs.google.com/spreadsheets/d/1GommSL8c9ez4fAID8U-X1s0V-UA-NywOECuMZZvToa4/edit) 
+сервис - (http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL)|
 | **🗄️ SQL тестирование** | Работа с базой данных через MySQL | [🔗 Открыть](https://docs.google.com/spreadsheets/d/1GCyMGnsjZZrqgfET4iiHoz8YeNBEvBZ3WO59X18PKRw/edit) |
 | **🗄️ Git bash** | команды bash | [🔗 Открыть](https://docs.google.com/spreadsheets/d/1GCyMGnsjZZrqgfET4iiHoz8YeNBEvBZ3WO59X18PKRw/edit) |
 
