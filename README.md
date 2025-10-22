@@ -90,6 +90,7 @@
 | **🔷 SOAP коллекция** | Тестирование SOAP сервисов | [🔗 Открыть](https://docs.google.com/spreadsheets/d/1GommSL8c9ez4fAID8U-X1s0V-UA-NywOECuMZZvToa4/edit) |
 сервис - (http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL)
 | **🗄️ SQL тестирование** | Работа с базой данных через MySQL | [🔗 Открыть](https://docs.google.com/spreadsheets/d/1GCyMGnsjZZrqgfET4iiHoz8YeNBEvBZ3WO59X18PKRw/edit) |
+| **🗄️ Git bash** | команды bash | [🔗 Открыть](https://docs.google.com/spreadsheets/d/1GCyMGnsjZZrqgfET4iiHoz8YeNBEvBZ3WO59X18PKRw/edit) |
 
 
 ---
